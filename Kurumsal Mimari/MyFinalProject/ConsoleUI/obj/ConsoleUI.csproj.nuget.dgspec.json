@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Erdem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erdem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectName": "ConsoleUI",
+        "projectPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+        "packagesPath": "C:\\Users\\Erdem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\ConsoleUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erdem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Business\\Business.csproj"
+              },
+              "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Erdem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erdem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Erdem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erdem\\Desktop\\CSharpCourse\\MyFinalProject\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erdem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
